@@ -16,7 +16,7 @@ i18n
             translation:{
                 for_more_info_click_here: "To know more about SOIL HEALTH ",
                 click_here:"Click Here",
-                greeting : 'Optimize Your Crop Selection',
+                greeting : 'Optimize Your Crops Selection',
                 sub_greeting : 'Maximize Your Yield with Data-Driven Insights',
                 sub_greeting_btn1 : 'Get Started',
                 sub_greeting_btn2 : 'Learn more',
